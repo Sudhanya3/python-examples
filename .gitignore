@@ -1,0 +1,7 @@
+.js*
+.md
+.json
+.ts
+.mjs
+.yml
+.DS_Store
